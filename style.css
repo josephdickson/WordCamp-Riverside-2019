@@ -3104,12 +3104,3 @@ body .custom-header {
 .custom-header .site-title a::before {
 	background-image: url('https://2019.riverside.wordcamp.org/files/2019/08/WordPress-logotype-wmark-300x300.png');
 }
-
-
-#primary-menu li {
-	margin-top: .25rem;
-	float: left;
-	list-style: none;
-	margin: 0;
-	padding: 0 0.5rem;
-}
