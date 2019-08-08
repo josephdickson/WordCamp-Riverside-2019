@@ -1243,6 +1243,7 @@ input[type=submit].button--inactive:hover {
     margin-bottom: 1.5rem;
     color: #fff;
     text-indent: -9999px;
+    background-image:url('https://2019.riverside.wordcamp.org/files/2019/08/wordpress-footer-logo.png');
     background-position: 50%;
     background-repeat: no-repeat;
     background-color: #614787;
