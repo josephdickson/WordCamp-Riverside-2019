@@ -68,7 +68,7 @@ audio:not([controls]) {
 
 progress {
     vertical-align: baseline
-}
+}net
 
 [hidden],
 template {
@@ -1247,22 +1247,9 @@ input[type=submit].button--inactive:hover {
     background-repeat: no-repeat;
     background-color: #614787;
     background-size: 40px;
+    background-image: url('https://2019.riverside.wordcamp.org/files/2019/08/wordpress-footer-logo.png');
     border-radius: 50%;
     transition: all .1s ease
-}
-
-.site-info-network:after {
-    position: absolute;
-    left: 50%;
-    top: 1.875rem;
-    z-index: -1;
-    margin-left: -.9375rem;
-    margin-bottom: -1.875rem;
-    width: 1.875rem;
-    height: 6.25rem;
-    background: #614787;
-    transition: all .1s ease;
-    content: ""
 }
 
 .site-info-network:active,
@@ -3098,7 +3085,6 @@ img.wp-smiley {
  */
 
 body .custom-header {
-	background-image: none;
 }
 
 .custom-header .site-title a::before {
