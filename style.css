@@ -1,3 +1,14 @@
+/**
+ *	These styles override WCEU 2019 which provides the base theme
+ * 	https://2019.europe.wordcamp.org/
+ *
+ */
+
+.site-title a::before {
+	background-image: url('https://2019.riverside.wordcamp.org/files/2019/08/WordPress-logotype-wmark-300x300.png');
+}
+
+
 #primary-menu li {
 	margin-top: .25rem;
 	float: left;
