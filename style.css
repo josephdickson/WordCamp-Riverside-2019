@@ -1416,8 +1416,7 @@ input[type=submit].button--inactive:hover {
     float: left;
     margin-left: -4rem;
     width: 3rem;
-    -webkit-clip-path: polygon(50% 0, 95% 25%, 95% 75%, 50% 100%, 5% 75%, 5% 25%);
-    clip-path: polygon(50% 0, 95% 25%, 95% 75%, 50% 100%, 5% 75%, 5% 25%)
+    clip-path: polygon(50% 0px, 95% 25%, 95% 75%, 50% 100%, 5% 75%, 5% 25%)
 }
 
 @media (min-width:37.5em) {
