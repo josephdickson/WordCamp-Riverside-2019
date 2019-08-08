@@ -1622,11 +1622,9 @@ article.comment-body {
     font-size: 16px
 }
 
-.wcorg-organizer .avatar {
-    float: left;
-    margin-left: -4rem;
-    width: 3rem;
-    clip-path: polygon(50% 0px, 95% 25%, 95% 75%, 50% 100%, 5% 75%, 5% 25%)
+.wcorg-organizer-description img {
+	border-radius: 5px;
+	clip-path: polygon(0% 0%, 100% 0%, 100% 75%, 75% 75%, 75% 100%, 50% 75%, 0% 75%);
 }
 
 @media (min-width:37.5em) {
