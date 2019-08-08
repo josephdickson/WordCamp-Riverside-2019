@@ -271,12 +271,12 @@ body {
 
 ::-moz-selection {
     color: #fff;
-    background-color: #e6aa50
+    background-color: a90000
 }
 
 ::selection {
     color: #fff;
-    background-color: #e6aa50
+    background-color: a90000
 }
 
 h1,
@@ -437,12 +437,12 @@ a {
 
 a:focus,
 a:hover {
-    color: #e6aa50;
+    color: a90000;
     text-decoration: underline
 }
 
 a:active {
-    color: #e6aa50;
+    color: a90000;
     text-decoration: none
 }
 
@@ -676,7 +676,7 @@ input[type=submit]:active,
 input[type=submit]:focus,
 input[type=submit]:hover {
     color: rgba(29, 36, 42, .9);
-    background-color: #e6aa50;
+    background-color: a90000;
     text-decoration: none
 }
 
@@ -716,7 +716,7 @@ input[type=submit].button--primary:active,
 input[type=submit].button--primary:focus,
 input[type=submit].button--primary:hover {
     color: rgba(29, 36, 42, .9);
-    background-color: #e6aa50
+    background-color: a90000
 }
 
 .button.button--secondary,
@@ -850,7 +850,7 @@ input[type=submit].button--inactive:hover {
 
 .site-title a {
     display: block;
-    color: #e6aa50
+    color: a90000
 }
 
 .site-title a:active,
@@ -960,7 +960,7 @@ input[type=submit].button--inactive:hover {
 .menu-toggle:active,
 .menu-toggle:focus,
 .menu-toggle:hover {
-    color: #e6aa50;
+    color: a90000;
     background-color: rgba(45, 40, 45, .9)
 }
 
@@ -981,7 +981,7 @@ input[type=submit].button--inactive:hover {
     top: -.125rem;
     border: .375rem solid transparent;
     margin-left: .5rem;
-    border-top-color: #e6aa50;
+    border-top-color: a90000;
     content: ""
 }
 
@@ -991,7 +991,7 @@ input[type=submit].button--inactive:hover {
 
 .menu-toggle[aria-expanded=true]:after {
     border-top-color: transparent;
-    border-bottom-color: #e6aa50
+    border-bottom-color: a90000
 }
 
 @media (min-width:37.5em) {
@@ -1011,7 +1011,7 @@ input[type=submit].button--inactive:hover {
     left: 0;
     right: 0;
     height: .125rem;
-    background-color: #e6aa50;
+    background-color: a90000;
     content: ""
 }
 
@@ -1082,7 +1082,7 @@ input[type=submit].button--inactive:hover {
 
 .menu-item a {
     display: block;
-    color: #e6aa50;
+    color: a90000;
     padding: .5rem 1rem;
     text-decoration: none;
     transition: all .1s ease
@@ -1110,7 +1110,7 @@ input[type=submit].button--inactive:hover {
 
 .current-menu-item>a {
     color: rgba(29, 36, 42, .9);
-    background-color: #e6aa50
+    background-color: a90000
 }
 
 .menu-item-has-children {
@@ -1132,7 +1132,7 @@ input[type=submit].button--inactive:hover {
         border: .375rem solid transparent;
         margin-left: .5rem;
         vertical-align: middle;
-        border-top-color: #e6aa50;
+        border-top-color: a90000;
         content: ""
     }
     .menu-item-has-children>a .dropdown-toggle {
@@ -1701,7 +1701,7 @@ article.comment-body {
     margin: 0;
     width: 3rem;
     height: 3rem;
-    border: .125rem solid #e6aa50;
+    border: .125rem solid a90000;
     background-color: #fff;
     transition: all .15s ease
 }
@@ -2476,7 +2476,7 @@ div.googlemaps iframe {
 .jetpack_subscription_widget input[type=submit]:focus,
 .jetpack_subscription_widget input[type=submit]:hover {
     color: rgba(29, 36, 42, .9);
-    background-color: #e6aa50
+    background-color: a90000
 }
 
 .jetpack_subscription_widget #subscribe-text {
@@ -2713,7 +2713,7 @@ div.googlemaps iframe {
     left: 10px;
     bottom: 10px;
     right: 0;
-    color: #e6aa50;
+    color: a90000;
     color: #ff0000
 }
 
@@ -2746,7 +2746,7 @@ div.googlemaps iframe {
 
 .realistic-ticket:focus .realistic-ticket__info-action,
 .realistic-ticket:hover .realistic-ticket__info-action {
-    color: #e6aa50
+    color: a90000
 }
 
 /**
@@ -2951,7 +2951,7 @@ div.googlemaps iframe {
 .nav-anchor a:focus,
 .nav-anchor a:hover {
     color: rgba(29, 36, 42, .9);
-    background-color: #e6aa50
+    background-color: a90000
 }
 
 .u-text-center {
