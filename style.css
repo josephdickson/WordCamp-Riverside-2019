@@ -4,11 +4,7 @@
  *
  */
 
-.site-header {
-	background-color: #f1f1f1;
-}
-
-.custom-header {
+body .custom-header {
 	background-image: none;
 }
 
