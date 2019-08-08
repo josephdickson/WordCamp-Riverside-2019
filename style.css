@@ -3,8 +3,13 @@
  * 	https://2019.europe.wordcamp.org/
  *
  */
+
 .site-header {
 	background-color: #f1f1f1;
+}
+
+.custom-header {
+	background-image: none;
 }
 
 .custom-header .site-title a::before {
