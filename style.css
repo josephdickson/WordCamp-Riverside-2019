@@ -1252,20 +1252,6 @@ input[type=submit].button--inactive:hover {
     transition: all .1s ease
 }
 
-.site-info-network:after {
-    position: absolute;
-    left: 50%;
-    top: 1.875rem;
-    z-index: -1;
-    margin-left: -.9375rem;
-    margin-bottom: -1.875rem;
-    width: 1.875rem;
-    height: 6.25rem;
-    background: #614787;
-    transition: all .1s ease;
-    content: ""
-}
-
 .site-info-network:active,
 .site-info-network:active:after,
 .site-info-network:focus,
