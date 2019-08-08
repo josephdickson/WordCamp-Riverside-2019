@@ -1622,6 +1622,13 @@ article.comment-body {
     font-size: 16px
 }
 
+.wcorg-organizer .avatar {
+    float: left;
+    margin-left: -4rem;
+    width: 3rem;
+    clip-path: polygon(50% 0px, 95% 25%, 95% 75%, 50% 100%, 5% 75%, 5% 25%)
+}
+
 @media (min-width:37.5em) {
     .wcorg-organizer .avatar {
         margin-left: -6rem;
