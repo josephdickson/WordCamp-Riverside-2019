@@ -11,14 +11,15 @@
  * # Normalize
  *
  * # Objects: Base theme classes
- * 	## Comments
- * 	## Organizers
- * 	## Tickets / CampTix 
- *	## Schedule
- *	## Sessions
- *	## Sponsors
- *	## Widgets
- *	## Navigation
+ * 	## Components / Specific UI elements
+ * 		### Comments
+ * 		### Organizers
+ * 		### Tickets / CampTix 
+ *		### Schedule
+ *		### Sessions
+ *		### Sponsors
+ *		### Widgets
+ *		### Navigation
  *
  * # Customizations
  *
@@ -1383,9 +1384,13 @@ input[type=submit].button--inactive:hover {
 .entry-footer a:hover {
     color: #57407a
 }
+/**
+ * ## Components / Specific UI elements
+ */
+
 
 /**
- * ## Comments
+ * ### Comments
  */
 .comments-area {
     margin-top: 2rem
@@ -1514,7 +1519,7 @@ article.comment-body {
 }
 
 /**
- * ## Posts
+ * ### Posts
  */
 .post-navigation,
 .posts-navigation {
@@ -1575,7 +1580,7 @@ article.comment-body {
     content: "\2192"
 }
 /**
- * ## Organizers 
+ * ### Organizers 
  * Custom Post Type
  */
 .wcorg-organizers {
@@ -1632,7 +1637,7 @@ article.comment-body {
 }
 
 /**
- * ## Tickets / CampTix 
+ * ### Tickets / CampTix 
  * Custom Post Type
  */
 .tix-attendee-list {
@@ -1880,7 +1885,7 @@ div.googlemaps iframe {
 }
 
 /**
- * ## Schedule
+ * ### Schedule
  * Custom Post Type
  */
 
@@ -2023,7 +2028,7 @@ div.googlemaps iframe {
 }
 
 /**
- * ## Sessions
+ * ### Sessions
  * Custom Post Type
  */
 
@@ -2123,7 +2128,7 @@ div.googlemaps iframe {
 }
 
 /**
- * ## Sponsors
+ * ### Sponsors
  * Custom Post Type
  */
 
@@ -2361,7 +2366,7 @@ div.googlemaps iframe {
     display: none!important
 }
 /**
- * ## Widgets
+ * ### Widgets
  */
 .widget {
     padding: 1.5rem 1rem;
@@ -2497,7 +2502,7 @@ div.googlemaps iframe {
     }
 }
 /**
- * ## Social Media
+ * ### Social Media
  */
 .list-social {
     *zoom: 1;
