@@ -1,380 +1,3 @@
-.cc--var-local-thunder:after {
-    background-color: #2d282d
-}
-
-.cc--var-local-thunder .cc__variable:after {
-    content: "#2d282d"
-}
-
-.cc--var-local-ash:after {
-    background-color: #575357
-}
-
-.cc--var-local-ash .cc__variable:after {
-    content: "#575357"
-}
-
-.cc--var-local-smoke:after {
-    background-color: #c0bfc0
-}
-
-.cc--var-local-smoke .cc__variable:after {
-    content: "#c0bfc0"
-}
-
-.cc--var-local-gold:after {
-    background-color: #e6aa50
-}
-
-.cc--var-local-gold .cc__variable:after {
-    content: "#e6aa50"
-}
-
-.cc--var-local-linnen:after {
-    background-color: #f5ebe0
-}
-
-.cc--var-local-linnen .cc__variable:after {
-    content: "#f5ebe0"
-}
-
-.cc--var-local-copper:after {
-    background-color: #c96
-}
-
-.cc--var-local-copper .cc__variable:after {
-    content: "#c96"
-}
-
-.cc--var-local-purple:after {
-    background-color: #614787
-}
-
-.cc--var-local-purple .cc__variable:after {
-    content: "#614787"
-}
-
-.cc--var-color-text:after {
-    background-color: rgba(29, 36, 42, .75)
-}
-
-.cc--var-color-text .cc__variable:after {
-    content: "rgba(29,36,42,.75)"
-}
-
-.cc--var-color-text-weak:after {
-    background-color: rgba(29, 36, 42, .6)
-}
-
-.cc--var-color-text-weak .cc__variable:after {
-    content: "rgba(29,36,42,.6)"
-}
-
-.cc--var-color-text-strong:after {
-    background-color: rgba(29, 36, 42, .9)
-}
-
-.cc--var-color-text-strong .cc__variable:after {
-    content: "rgba(29,36,42,.9)"
-}
-
-.cc--var-color-text-invert:after {
-    background-color: hsla(0, 0%, 100%, .75)
-}
-
-.cc--var-color-text-invert .cc__variable:after {
-    content: "hsla(0,0%,100%,.75)"
-}
-
-.cc--var-color-text-weak-invert:after {
-    background-color: hsla(0, 0%, 100%, .6)
-}
-
-.cc--var-color-text-weak-invert .cc__variable:after {
-    content: "hsla(0,0%,100%,.6)"
-}
-
-.cc--var-color-text-strong-invert:after {
-    background-color: hsla(0, 0%, 100%, .9)
-}
-
-.cc--var-color-text-strong-invert .cc__variable:after {
-    content: "hsla(0,0%,100%,.9)"
-}
-
-.cc--var-color-link:after {
-    background-color: #c96
-}
-
-.cc--var-color-link .cc__variable:after {
-    content: "#c96"
-}
-
-.cc--var-color-link-focus:after {
-    background-color: #a17738
-}
-
-.cc--var-color-link-focus .cc__variable:after {
-    content: "#a17738"
-}
-
-.cc--var-color-link-hover:after {
-    background-color: #e6aa50
-}
-
-.cc--var-color-link-hover .cc__variable:after {
-    content: "#e6aa50"
-}
-
-.cc--var-color-link-visited:after {
-    background-color: #f3d5a8
-}
-
-.cc--var-color-link-visited .cc__variable:after {
-    content: "#f3d5a8"
-}
-
-.cc--var-color-link-alt:after {
-    background-color: #614787
-}
-
-.cc--var-color-link-alt .cc__variable:after {
-    content: "#614787"
-}
-
-.cc--var-color-link-alt-focus:after {
-    background-color: #44325f
-}
-
-.cc--var-color-link-alt-focus .cc__variable:after {
-    content: "#44325f"
-}
-
-.cc--var-color-link-alt-hover:after {
-    background-color: #57407a
-}
-
-.cc--var-color-link-alt-hover .cc__variable:after {
-    content: "#57407a"
-}
-
-.cc--var-color-link-alt-visited:after {
-    background-color: #b0a3c3
-}
-
-.cc--var-color-link-alt-visited .cc__variable:after {
-    content: "#b0a3c3"
-}
-
-.cc--var-color-grey-10:after {
-    background-color: #e8e9ea
-}
-
-.cc--var-color-grey-10 .cc__variable:after {
-    content: "#e8e9ea"
-}
-
-.cc--var-color-grey-20:after {
-    background-color: #d2d3d4
-}
-
-.cc--var-color-grey-20 .cc__variable:after {
-    content: "#d2d3d4"
-}
-
-.cc--var-color-grey-30:after {
-    background-color: #bbbdbf
-}
-
-.cc--var-color-grey-30 .cc__variable:after {
-    content: "#bbbdbf"
-}
-
-.cc--var-color-grey-40:after {
-    background-color: #a5a7aa
-}
-
-.cc--var-color-grey-40 .cc__variable:after {
-    content: "#a5a7aa"
-}
-
-.cc--var-color-grey-50:after {
-    background-color: #8e9295
-}
-
-.cc--var-color-grey-50 .cc__variable:after {
-    content: "#8e9295"
-}
-
-.cc--var-color-grey-60:after {
-    background-color: #777c7f
-}
-
-.cc--var-color-grey-60 .cc__variable:after {
-    content: "#777c7f"
-}
-
-.cc--var-color-grey-70:after {
-    background-color: #61666a
-}
-
-.cc--var-color-grey-70 .cc__variable:after {
-    content: "#61666a"
-}
-
-.cc--var-color-grey-80:after {
-    background-color: #4a5055
-}
-
-.cc--var-color-grey-80 .cc__variable:after {
-    content: "#4a5055"
-}
-
-.cc--var-color-grey-90:after {
-    background-color: #343a3f
-}
-
-.cc--var-color-grey-90 .cc__variable:after {
-    content: "#343a3f"
-}
-
-.cc--var-color-grey-100:after {
-    background-color: #1d242a
-}
-
-.cc--var-color-grey-100 .cc__variable:after {
-    content: "#1d242a"
-}
-
-.cc--var-color-border-weak:after {
-    background-color: #f5ebe0
-}
-
-.cc--var-color-border-weak .cc__variable:after {
-    content: "#f5ebe0"
-}
-
-.cc--var-color-border-normal:after {
-    background-color: #e0c2a3
-}
-
-.cc--var-color-border-normal .cc__variable:after {
-    content: "#e0c2a3"
-}
-
-.cc--var-color-border-strong:after {
-    background-color: #c96
-}
-
-.cc--var-color-border-strong .cc__variable:after {
-    content: "#c96"
-}
-
-.cc--var-color-message-default:after {
-    background-color: #eee
-}
-
-.cc--var-color-message-default .cc__variable:after {
-    content: "#eee"
-}
-
-.cc--var-color-message-success:after {
-    background-color: #00a664
-}
-
-.cc--var-color-message-success .cc__variable:after {
-    content: "#00a664"
-}
-
-.cc--var-color-message-warning:after {
-    background-color: #ffcb05
-}
-
-.cc--var-color-message-warning .cc__variable:after {
-    content: "#ffcb05"
-}
-
-.cc--var-color-message-danger:after {
-    background-color: #f04e3e
-}
-
-.cc--var-color-message-danger .cc__variable:after {
-    content: "#f04e3e"
-}
-
-.cc--var-color-input-regular:after {
-    background-color: #d5d4d5
-}
-
-.cc--var-color-input-regular .cc__variable:after {
-    content: "#d5d4d5"
-}
-
-.cc--var-color-input-focus:after {
-    background-color: #aba9ab
-}
-
-.cc--var-color-input-focus .cc__variable:after {
-    content: "#aba9ab"
-}
-
-.cc--var-color-input-success:after {
-    background-color: #00a664
-}
-
-.cc--var-color-input-success .cc__variable:after {
-    content: "#00a664"
-}
-
-.cc--var-color-input-error:after {
-    background-color: #f04e3e
-}
-
-.cc--var-color-input-error .cc__variable:after {
-    content: "#f04e3e"
-}
-
-.cc--var-color-input-required:after {
-    background-color: #b43b2f
-}
-
-.cc--var-color-input-required .cc__variable:after {
-    content: "#b43b2f"
-}
-
-.cc--var-color-input-checkbox:after {
-    background-color: #d5d4d5
-}
-
-.cc--var-color-input-checkbox .cc__variable:after {
-    content: "#d5d4d5"
-}
-
-.cc--var-color-input-checkbox-active:after {
-    background-color: #c96
-}
-
-.cc--var-color-input-checkbox-active .cc__variable:after {
-    content: "#c96"
-}
-
-.cc--var-color-input-radio:after {
-    background-color: #d5d4d5
-}
-
-.cc--var-color-input-radio .cc__variable:after {
-    content: "#d5d4d5"
-}
-
-.cc--var-color-input-radio-active:after {
-    background-color: #c96
-}
-
-.cc--var-color-input-radio-active .cc__variable:after {
-    content: "#c96"
-}
-
-
 /*! normalize.css v4.1.1 | MIT License | github.com/necolas/normalize.css */
 
 html {
@@ -1307,6 +930,10 @@ input[type=submit].button--inactive:hover {
     }
 }
 
+/**
+ *	Actual Designs begin here
+ */
+
 .site-title {
     margin: 0;
     font-size: 1.5625em;
@@ -1338,7 +965,6 @@ input[type=submit].button--inactive:hover {
     margin-bottom: 1rem;
     background-repeat: no-repeat;
     background-position: 50% 50%;
-    background-image: url(https://2017.europe.wordcamp.org/files/2017/03/logo-wceu17-symbol.png);
     background-size: 100%;
     content: ""
 }
@@ -1359,13 +985,11 @@ input[type=submit].button--inactive:hover {
     background-repeat: no-repeat;
     background-position: 50% 0;
     background-size: fixed;
-    background-image: url(https://2017.europe.wordcamp.org/files/2017/01/header-wceu17-hero-mobile.jpg);
     transition: all .15s ease
 }
 
 @media (min-width:48em) {
     .site-header {
-        background-image: url(https://2017.europe.wordcamp.org/files/2017/01/header-wceu17-hero-desktop.jpg);
         background-position: 50% 50%;
         background-size: cover
     }
@@ -1415,61 +1039,6 @@ input[type=submit].button--inactive:hover {
 .home .site-header .site-branding:after {
     transform: skewX(-50deg);
     animation: b 5s infinite 5s
-}
-
-@keyframes a {
-    0% {
-        transform: skewX(50deg)
-    }
-    5% {
-        transform: skewX(50deg)
-    }
-    20% {
-        transform: skewX(-60deg)
-    }
-    50% {
-        transform: skewX(-50deg);
-        opacity: .1
-    }
-    80% {
-        opacity: .2
-    }
-    to {
-        transform: skewX(50deg);
-        opacity: .1
-    }
-}
-
-@keyframes b {
-    0% {
-        transform: skewX(-50deg);
-        opacity: .1
-    }
-    5% {
-        transform: skewX(-50deg)
-    }
-    10% {
-        opacity: .05
-    }
-    30% {
-        opacity: .2
-    }
-    40% {
-        opacity: .1
-    }
-    50% {
-        transform: skewX(60deg);
-        opacity: .1
-    }
-    60% {
-        opacity: .2
-    }
-    80% {
-        opacity: .1
-    }
-    to {
-        transform: skewX(-50deg)
-    }
 }
 
 .menu-toggle {
@@ -1704,7 +1273,6 @@ input[type=submit].button--inactive:hover {
 @media (max-width:37.4375em) {
     .sub-menu a {
         padding-left: 2.5rem;
-        background-image: url(https://2017.europe.wordcamp.org/files/2017/01/decoration-bullet-color.png);
         background-repeat: no-repeat;
         background-size: 12px;
         background-position: 1rem 50%
@@ -1712,7 +1280,6 @@ input[type=submit].button--inactive:hover {
     .sub-menu a.focus,
     .sub-menu a:focus,
     .sub-menu a:hover {
-        background-image: url(https://2017.europe.wordcamp.org/files/2017/01/decoration-bullet-dark.png)
     }
 }
 
@@ -1777,7 +1344,6 @@ input[type=submit].button--inactive:hover {
     margin-bottom: 1.5rem;
     color: #fff;
     text-indent: -9999px;
-    background-image: url(https://europe.wordcamp.org/2016/files/2015/11/wordpress-footer-logo.png);
     background-position: 50%;
     background-repeat: no-repeat;
     background-color: #614787;
@@ -2487,7 +2053,6 @@ div.googlemaps iframe {
 .wcpt-schedule .global-session.lunch,
 .wcpt-schedule .global-session.morning-break,
 .wcpt-schedule .global-session.registration {
-    background-image: url(https://2017.europe.wordcamp.org/files/2017/01/background-pattern-01.png);
     background-color: #f5ebe0!important;
     background-size: 120px;
     background-position: 50% 0
@@ -3211,7 +2776,6 @@ div.googlemaps iframe {
 #session-speaker-names li,
 #speaker-session-names li {
     padding-left: 2rem;
-    background-image: url(https://2017.europe.wordcamp.org/files/2017/01/decoration-bullet-dark.png);
     background-repeat: no-repeat;
     background-size: 12px;
     background-position: .5rem .5rem;
@@ -3532,7 +3096,6 @@ div.googlemaps iframe {
 }
 
 .jetpack_subscription_widget:before {
-    background-image: url(https://2017.europe.wordcamp.org/files/2017/01/background-pattern-01.png);
     background-color: #2d282d!important;
     background-size: 120px;
     background-attachment: fixed;
@@ -3685,15 +3248,12 @@ div.googlemaps iframe {
 }
 
 .list-social .social-twitter a:after {
-    background-image: url(https://2017.europe.wordcamp.org/files/2016/11/icon-twitter.png)
 }
 
 .list-social .social-facebook a:after {
-    background-image: url(https://2017.europe.wordcamp.org/files/2016/11/icon-facebook.png)
 }
 
 .list-social .social-instagram a:after {
-    background-image: url(https://2017.europe.wordcamp.org/files/2017/06/icon-instagram.png)
 }
 
 #text-5 {
@@ -3702,7 +3262,6 @@ div.googlemaps iframe {
 
 #text-3:before,
 #text-4:before {
-    background-image: url(https://2017.europe.wordcamp.org/files/2017/01/background-pattern-01.png);
     background-color: #f5ebe0!important;
     background-size: 120px;
     background-attachment: fixed;
@@ -3757,7 +3316,6 @@ div.googlemaps iframe {
     float: left;
     padding: 10px;
     height: 140px;
-    background-image: url(https://2017.europe.wordcamp.org/files/2017/01/realistic-ticket.png);
     background-repeat: no-repeat;
     background-size: 460px 140px;
     transition: all .15s ease
@@ -3962,7 +3520,6 @@ div.googlemaps iframe {
 }
 
 #content-widget-1:before {
-    background-image: url(https://2017.europe.wordcamp.org/files/2017/01/background-pattern-01.png);
     background-color: #f5ebe0!important;
     background-size: 120px;
     background-attachment: fixed;
