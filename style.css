@@ -4,7 +4,7 @@
  *
  */
 
-.site-title a::before {
+.custom-header .site-title a::before {
 	background-image: url('https://2019.riverside.wordcamp.org/files/2019/08/WordPress-logotype-wmark-300x300.png');
 }
 
