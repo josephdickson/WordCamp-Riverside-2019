@@ -2375,6 +2375,14 @@ div.googlemaps iframe {
     margin-right: auto
 }
 
+.widget ul {
+	padding-left: 0;
+}
+
+.widget li {
+	list-style: none;
+}
+
 @media (min-width:37.5em) {
     .widget {
         padding: 3rem 2rem
