@@ -5,7 +5,7 @@
  * Adapted from: https://github.com/2ndkauboy/campsite-2017
  * Created by: 2ndkauboy
  * Theme: campsite-2017
- * 
+ * Version: 1.0
  *
  *
  * # Normalize
@@ -272,12 +272,12 @@ body {
 
 ::-moz-selection {
     color: #fff;
-    background-color: #e6aa50
+    background-color: #b38b6d
 }
 
 ::selection {
     color: #fff;
-    background-color: #e6aa50
+    background-color: #b38b6d
 }
 
 h1,
@@ -294,7 +294,7 @@ h4 {
 
 h1 {
     font-size: 2.44141em;
-    color: #c96
+    color: #C8AB95
 }
 
 h2 {
@@ -431,20 +431,20 @@ select {
 }
 
 a {
-    color: #c96;
-    text-decoration: none;
-    transition: all .15s ease
+    color: #483c32;
+    text-decoration: underline;
+    transition: all .15s ease;
 }
 
 a:focus,
 a:hover {
-    color: #e6aa50;
-    text-decoration: underline
+    color: #483c32;
+    text-decoration: underline;
 }
 
 a:active {
-    color: #e6aa50;
-    text-decoration: none
+    color: #483c32;
+    text-decoration: underline;
 }
 
 p {
@@ -646,7 +646,7 @@ input[type=submit] {
     position: relative;
     display: inline-block;
     padding: .4375rem 1rem;
-    border: 1px solid #c96;
+    border: 1px solid #C8AB95;
     font-size: 1em;
     line-height: 1.5625em;
     text-align: center;
@@ -654,7 +654,7 @@ input[type=submit] {
     font-family: 'Red Hat Display', Helvetica Neue, Helvetica, Roboto, Arial, sans-serif;
     font-weight: 900;
     text-decoration: none;
-    background-color: #c96;
+    background-color: #C8AB95;
     border-radius: .1875rem;
     border-color: transparent;
     cursor: pointer;
@@ -677,7 +677,7 @@ input[type=submit]:active,
 input[type=submit]:focus,
 input[type=submit]:hover {
     color: rgba(29, 36, 42, .9);
-    background-color: #e6aa50;
+    background-color: #b38b6d;
     text-decoration: none
 }
 
@@ -698,7 +698,7 @@ input[type=button].button--primary,
 input[type=reset].button--primary,
 input[type=submit].button--primary {
     color: rgba(29, 36, 42, .75);
-    background-color: #c96
+    background-color: #C8AB95
 }
 
 .button.button--primary:active,
@@ -717,7 +717,7 @@ input[type=submit].button--primary:active,
 input[type=submit].button--primary:focus,
 input[type=submit].button--primary:hover {
     color: rgba(29, 36, 42, .9);
-    background-color: #e6aa50
+    background-color: #b38b6d
 }
 
 .button.button--secondary,
@@ -851,14 +851,13 @@ input[type=submit].button--inactive:hover {
 
 .site-title a {
     display: block;
-    color: #e6aa50
+    color: #b38b6d
 }
 
 .site-title a:active,
 .site-title a:focus,
 .site-title a:hover {
-    color: #c96;
-    text-decoration: none
+    color: #C8AB95;
 }
 
 .site-title a:before {
@@ -961,7 +960,7 @@ input[type=submit].button--inactive:hover {
 .menu-toggle:active,
 .menu-toggle:focus,
 .menu-toggle:hover {
-    color: #e6aa50;
+    color: #b38b6d;
     background-color: rgba(45, 40, 45, .9)
 }
 
@@ -982,17 +981,17 @@ input[type=submit].button--inactive:hover {
     top: -.125rem;
     border: .375rem solid transparent;
     margin-left: .5rem;
-    border-top-color: #e6aa50;
+    border-top-color: #b38b6d;
     content: ""
 }
 
 .menu-toggle[aria-expanded=true] {
-    color: #c96
+    color: #C8AB95
 }
 
 .menu-toggle[aria-expanded=true]:after {
     border-top-color: transparent;
-    border-bottom-color: #e6aa50
+    border-bottom-color: #b38b6d
 }
 
 @media (min-width:37.5em) {
@@ -1012,7 +1011,7 @@ input[type=submit].button--inactive:hover {
     left: 0;
     right: 0;
     height: .125rem;
-    background-color: #e6aa50;
+    background-color: #b38b6d;
     content: ""
 }
 
@@ -1083,7 +1082,7 @@ input[type=submit].button--inactive:hover {
 
 .menu-item a {
     display: block;
-    color: #e6aa50;
+    color: #b38b6d;
     padding: .5rem 1rem;
     text-decoration: none;
     transition: all .1s ease
@@ -1094,7 +1093,7 @@ input[type=submit].button--inactive:hover {
 .menu-item a:focus,
 .menu-item a:hover {
     color: rgba(29, 36, 42, .9);
-    background-color: #c96
+    background-color: #C8AB95
 }
 
 @media (min-width:48em) {
@@ -1111,7 +1110,7 @@ input[type=submit].button--inactive:hover {
 
 .current-menu-item>a {
     color: rgba(29, 36, 42, .9);
-    background-color: #e6aa50
+    background-color: #b38b6d
 }
 
 .menu-item-has-children {
@@ -1133,7 +1132,7 @@ input[type=submit].button--inactive:hover {
         border: .375rem solid transparent;
         margin-left: .5rem;
         vertical-align: middle;
-        border-top-color: #e6aa50;
+        border-top-color: #b38b6d;
         content: ""
     }
     .menu-item-has-children>a .dropdown-toggle {
@@ -1143,7 +1142,7 @@ input[type=submit].button--inactive:hover {
     .menu-item-has-children.focus>a,
     .menu-item-has-children:hover>a {
         color: rgba(29, 36, 42, .9);
-        background-color: #c96
+        background-color: #C8AB95
     }
     .menu-item-has-children.focus>a:after,
     .menu-item-has-children:hover>a:after {
@@ -1190,7 +1189,7 @@ input[type=submit].button--inactive:hover {
         left: -999em;
         z-index: 310;
         min-width: 16.25rem;
-        background-color: #c96
+        background-color: #C8AB95
     }
     .sub-menu .menu-item {
         width: 100%;
@@ -1334,7 +1333,7 @@ input[type=submit].button--inactive:hover {
 .entry-title a:active,
 .entry-title a:focus,
 .entry-title a:hover {
-    text-decoration: none
+	color: #B38B6D;
 }
 
 .entry-meta {
@@ -1706,7 +1705,7 @@ article.comment-body {
     margin: 0;
     width: 3rem;
     height: 3rem;
-    border: .125rem solid #e6aa50;
+    border: .125rem solid #b38b6d;
     background-color: #fff;
     transition: all .15s ease
 }
@@ -1779,8 +1778,8 @@ article.comment-body {
 }
 
 .tix_tickets_table {
-    border-top: 3px double #c96;
-    border-bottom: 3px double #c96;
+    border-top: 3px double #C8AB95;
+    border-bottom: 3px double #C8AB95;
     margin-bottom: 1.5rem
 }
 
@@ -1890,7 +1889,7 @@ div.googlemaps iframe {
  */
 
 .wcpt-schedule {
-    border: .25rem solid #c96;
+    border: .25rem solid #C8AB95;
     margin-bottom: 1.5rem;
     background-color: #fff
 }
@@ -1983,7 +1982,7 @@ div.googlemaps iframe {
     .wcpt-schedule tr {
         margin-bottom: 1rem;
         display: block;
-        border: .25rem solid #c96
+        border: .25rem solid #C8AB95
     }
     .wcpt-schedule .wcb-track-track-1:before,
     .wcpt-schedule .wcb-track-track-2:before,
@@ -2397,7 +2396,7 @@ div.googlemaps iframe {
     width: 10rem;
     padding: 0;
     margin: 1.5rem auto;
-    border-top: 2px solid #c96
+    border-top: 2px solid #C8AB95
 }
 
 @media (min-width:48em) {
@@ -2458,7 +2457,7 @@ div.googlemaps iframe {
 }
 
 .jetpack_subscription_widget .widget-title {
-    color: #c96
+    color: #C8AB95
 }
 
 .jetpack_subscription_widget p {
@@ -2474,14 +2473,14 @@ div.googlemaps iframe {
     width: 100%;
     color: rgba(29, 36, 42, .75);
     text-transform: uppercase;
-    background-color: #c96
+    background-color: #C8AB95
 }
 
 .jetpack_subscription_widget input[type=submit]:active,
 .jetpack_subscription_widget input[type=submit]:focus,
 .jetpack_subscription_widget input[type=submit]:hover {
     color: rgba(29, 36, 42, .9);
-    background-color: #e6aa50
+    background-color: #b38b6d
 }
 
 .jetpack_subscription_widget #subscribe-text {
@@ -2556,7 +2555,6 @@ div.googlemaps iframe {
     padding-top: 4.25rem;
     color: rgba(0, 0, 0, .8);
     border-radius: .1875rem;
-    text-decoration: none
 }
 
 .list-social a:empty {
@@ -2592,7 +2590,6 @@ div.googlemaps iframe {
 .list-social a:active,
 .list-social a:focus,
 .list-social a:hover {
-    text-decoration: none;
     color: hsla(0, 0%, 100%, .9);
     background-color: #614787
 }
@@ -2718,8 +2715,8 @@ div.googlemaps iframe {
     left: 10px;
     bottom: 10px;
     right: 0;
-    color: #e6aa50;
-    color: #c96
+    color: #b38b6d;
+    color: #C8AB95
 }
 
 .realistic-ticket .realistic-ticket__info-event {
@@ -2751,7 +2748,7 @@ div.googlemaps iframe {
 
 .realistic-ticket:focus .realistic-ticket__info-action,
 .realistic-ticket:hover .realistic-ticket__info-action {
-    color: #e6aa50
+    color: #b38b6d
 }
 
 /**
@@ -2779,7 +2776,7 @@ div.googlemaps iframe {
     bottom: 0;
     left: 50%;
     transform: translateX(-50%);
-    background-color: #c96;
+    background-color: #C8AB95;
     content: ""
 }
 
@@ -2804,7 +2801,7 @@ div.googlemaps iframe {
     bottom: 0;
     left: 50%;
     transform: translateX(-50%);
-    background-color: #c96;
+    background-color: #C8AB95;
     content: ""
 }
 
@@ -2908,7 +2905,7 @@ div.googlemaps iframe {
 }
 
 #content-widget-5 .widget-title {
-    color: #c96
+    color: #C8AB95
 }
 
 #content-widget-5 p {
@@ -2943,7 +2940,7 @@ div.googlemaps iframe {
     display: block;
     padding: 1rem;
     min-width: 13.75rem;
-    background-color: #c96;
+    background-color: #C8AB95;
     text-decoration: none;
     border-radius: .1875rem
 }
@@ -2956,7 +2953,7 @@ div.googlemaps iframe {
 .nav-anchor a:focus,
 .nav-anchor a:hover {
     color: rgba(29, 36, 42, .9);
-    background-color: #e6aa50
+    background-color: #b38b6d
 }
 
 .u-text-center {
@@ -3017,7 +3014,6 @@ img.wp-smiley {
     z-index: 1;
     top: 1em;
     left: 1em;
-    text-decoration: none
 }
 
 .alignleft,
