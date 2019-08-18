@@ -25,9 +25,10 @@
  *
  */
 /**
- * Import Red Hat display font from google fonts
- */
+ * Import Red Hat display font from google fonts -- Commented out using font feature instead in dashboard
+ *
 @import url('https://fonts.googleapis.com/css?family=Red+Hat+Display:400,400i,500,500i,900,900i&display=swap');
+ */
 /**
  * # Normalize
  * normalize.css v4.1.1 | MIT License | github.com/necolas/normalize.css 
