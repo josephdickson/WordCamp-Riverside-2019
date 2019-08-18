@@ -5,7 +5,7 @@
  * Adapted from: https://github.com/2ndkauboy/campsite-2017
  * Created by: 2ndkauboy
  * Theme: campsite-2017
- * Version: 1.0
+ * Version: 1.1
  *
  *
  * # Normalize
@@ -24,7 +24,10 @@
  * # Customizations
  *
  */
-
+/**
+ * Import Red Hat display font from google fonts
+ */
+@import url('https://fonts.googleapis.com/css?family=Red+Hat+Display:400,400i,500,500i,900,900i&display=swap');
 /**
  * # Normalize
  * normalize.css v4.1.1 | MIT License | github.com/necolas/normalize.css 
@@ -37,7 +40,8 @@ html {
 }
 
 body {
-    margin: 0
+	font-weight: 500;
+    	margin: 0;
 }
 
 article,
@@ -287,14 +291,14 @@ h4 {
     margin-bottom: 1.5rem;
     margin-top: 0;
     font-family: 'Red Hat Display', Helvetica Neue, Helvetica, Roboto, Arial, sans-serif;
-    font-weight: 900;
+    font-weight: 400;
     line-height: 1;
-    text-transform: uppercase
+    text-transform: none; 
 }
 
 h1 {
     font-size: 2.44141em;
-    color: #C8AB95
+    color: #b38b6d;
 }
 
 h2 {
@@ -1082,7 +1086,7 @@ input[type=submit].button--inactive:hover {
 
 .menu-item a {
     display: block;
-    color: #b38b6d;
+    color: #CFB5A2;
     padding: .5rem 1rem;
     text-decoration: none;
     transition: all .1s ease
@@ -1245,7 +1249,7 @@ input[type=submit].button--inactive:hover {
     text-indent: -9999px;
     background-position: 50%;
     background-repeat: no-repeat;
-    background-color: #614787;
+    background-color: #008080;
     background-size: 40px;
     background-image: url('https://2019.riverside.wordcamp.org/files/2019/08/wordpress-footer-logo.png');
     border-radius: 50%;
