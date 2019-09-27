@@ -1263,7 +1263,7 @@ input[type=submit].button--inactive:hover {
 .site-info-network:focus:after,
 .site-info-network:hover,
 .site-info-network:hover:after {
-    background-color: #57407a
+    background-color: #9F6356
 }
 
 #primary {
@@ -1352,7 +1352,7 @@ input[type=submit].button--inactive:hover {
 .entry-meta a:active,
 .entry-meta a:focus,
 .entry-meta a:hover {
-    color: #57407a
+    color: #9F6356
 }
 
 .entry-meta .updated {
@@ -1386,7 +1386,7 @@ input[type=submit].button--inactive:hover {
 .entry-footer a:active,
 .entry-footer a:focus,
 .entry-footer a:hover {
-    color: #57407a
+    color: #9F6356
 }
 /**
  * ## Components / Specific UI elements
