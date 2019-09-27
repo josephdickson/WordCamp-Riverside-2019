@@ -1087,7 +1087,7 @@ input[type=submit].button--inactive:hover {
 
 .menu-item a {
     display: block;
-    color: #CFB5A2;
+    color: #26a98b;
     padding: .5rem 1rem;
     text-decoration: none;
     transition: all .1s ease
