@@ -840,7 +840,7 @@ input[type=submit].button--inactive:hover {
 
 @media (min-width:48em) {
     .home .site-header .site-branding {
-        padding: 8rem 3rem
+        padding: 4rem 3rem
     }
 }
 
