@@ -1252,7 +1252,7 @@ input[type=submit].button--inactive:hover {
     background-repeat: no-repeat;
     background-color: #008080;
     background-size: 40px;
-    background-image: url('https://2019.riverside.wordcamp.org/files/2019/08/wordpress-footer-logo.png');
+    background-image: url('https://2019.riverside.wordcamp.org/files/2019/09/Splatterbulb-Multicolor-White-Base-logo-500-wide-e1569549942161.png');
     border-radius: 50%;
     transition: all .1s ease
 }
@@ -3102,5 +3102,5 @@ body .custom-header {
 }
 
 .custom-header .site-title a::before {
-	background-image: url('https://2019.riverside.wordcamp.org/files/2019/08/FinalWhite@500x500.png');
+	background-image: url('https://2019.riverside.wordcamp.org/files/2019/09/Splatterbulb-Multicolor-White-Base-logo-500-wide-e1569549942161.png');
 }
