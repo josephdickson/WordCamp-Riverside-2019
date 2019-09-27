@@ -610,7 +610,7 @@ pre {
 
 code {
     padding: .125rem .1875rem;
-    background-color: #f5ebe0
+    background-color: #F3F1D8
 }
 
 pre code {
@@ -1303,7 +1303,7 @@ input[type=submit].button--inactive:hover {
     *zoom: 1;
     margin-bottom: 1.5rem;
     padding-bottom: 1.5rem;
-    border-bottom: 6px double #f5ebe0
+    border-bottom: 6px double #F3F1D8
 }
 
 .post:after,
@@ -1591,7 +1591,7 @@ article.comment-body {
 .wcorg-organizers {
     padding-bottom: 1.5rem;
     margin-bottom: 1.5rem;
-    border-bottom: 6px double #f5ebe0
+    border-bottom: 6px double #F3F1D8
 }
 
 .wcorg-organizer {
@@ -1795,7 +1795,7 @@ article.comment-body {
 
 .tix_tickets_table td,
 .tix_tickets_table th {
-    border-color: #f5ebe0
+    border-color: #F3F1D8
 }
 
 .tix_tickets_table td:first-child,
@@ -1967,7 +1967,7 @@ div.googlemaps iframe {
 .wcpt-schedule .global-session.lunch,
 .wcpt-schedule .global-session.morning-break,
 .wcpt-schedule .global-session.registration {
-    background-color: #f5ebe0!important;
+    background-color: #F3F1D8!important;
     background-size: 120px;
     background-position: 50% 0
 }
@@ -1999,7 +1999,7 @@ div.googlemaps iframe {
         border: none;
         color: rgba(29, 36, 42, .9);
         font-weight: 900;
-        background-color: #f5ebe0!important
+        background-color: #F3F1D8!important
     }
     .wcpt-schedule .wcb-track-track-1:before {
         content: "Track 1"
@@ -2038,7 +2038,7 @@ div.googlemaps iframe {
  */
 
 .wcorg-session {
-    border-top: 6px double #f5ebe0;
+    border-top: 6px double #F3F1D8;
     padding: 1.5rem 0
 }
 
@@ -2074,7 +2074,7 @@ div.googlemaps iframe {
 }
 
 .wcorg-speaker {
-    border-top: 6px double #f5ebe0;
+    border-top: 6px double #F3F1D8;
     padding: 1.5rem 0
 }
 
@@ -2152,7 +2152,7 @@ div.googlemaps iframe {
     margin-top: 1.5rem;
     margin-bottom: 1.5rem;
     padding-top: 1.5rem;
-    border-top: 1px solid #f5ebe0;
+    border-top: 1px solid #F3F1D8;
     font-size: 1em;
     line-height: 1.5625em;
     text-align: center;
@@ -2172,7 +2172,7 @@ div.googlemaps iframe {
         left: 50%;
         width: 100%;
         transform: translateX(-50%);
-        border-top: 1px solid #f5ebe0;
+        border-top: 1px solid #F3F1D8;
         content: "";
         z-index: -1
     }
@@ -2443,7 +2443,7 @@ div.googlemaps iframe {
     bottom: 0;
     left: -1000px;
     right: -1000px;
-    background-color: #f5ebe0;
+    background-color: #F3F1D8;
     content: ""
 }
 
@@ -2633,7 +2633,7 @@ div.googlemaps iframe {
 
 #text-3:before,
 #text-4:before {
-    background-color: #f5ebe0!important;
+    background-color: #F3F1D8!important;
     background-size: 120px;
     background-attachment: fixed;
     background-position: 50% 0
@@ -2824,7 +2824,7 @@ div.googlemaps iframe {
 }
 
 .page-template-page-day-of #content-widgets .widget {
-    border-top: 1px solid #f5ebe0;
+    border-top: 1px solid #F3F1D8;
     background: none!important
 }
 
@@ -2895,7 +2895,7 @@ div.googlemaps iframe {
 }
 
 #content-widget-1:before {
-    background-color: #f5ebe0!important;
+    background-color: #F3F1D8!important;
     background-size: 120px;
     background-attachment: fixed;
     background-position: 50% 0
@@ -2904,7 +2904,7 @@ div.googlemaps iframe {
 #content-widget-2:before,
 #content-widget-3:before,
 #content-widget-4:before {
-    border-top: 1px solid #f5ebe0
+    border-top: 1px solid #F3F1D8
 }
 
 #content-widget-5 {
