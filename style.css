@@ -5,7 +5,7 @@
  * Adapted from: https://github.com/2ndkauboy/campsite-2017
  * Created by: 2ndkauboy
  * Theme: campsite-2017
- * Version: 1.1
+ * Version: 1.2
  *
  *
  * # Normalize
@@ -1099,7 +1099,7 @@ input[type=submit].button--inactive:hover {
 .menu-item a:focus,
 .menu-item a:hover {
     color: rgba(29, 36, 42, .9);
-    background-color: #A2CA8D
+    background-color: #26A98B
 }
 
 @media (min-width:48em) {
