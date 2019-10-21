@@ -3105,3 +3105,8 @@ body .custom-header {
 .custom-header .site-title a::before {
 	background-image: url('https://2019.riverside.wordcamp.org/files/2019/09/Splatterbulb-Multicolor-White-Base-logo-500-wide-e1569549942161.png');
 }
+
+#footer-widgets img {
+	margin: 0 auto;
+	padding: 0;
+}
